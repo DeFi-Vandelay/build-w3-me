@@ -6,7 +6,7 @@
 
 The most complete open-source toolkit for building decentralized applications (dapps) on the Ethereum blockchain. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.
 
-Built using NextJS, RainbowKit, Hardhat, Wagmi, Viem, and Typescript.
+Built using NextJS, RainbowKit, Hardhat, Wagmi, Viem
 
 - **Contract Hot Reload**: frontend auto-adapts to your smart contract as you edit it.
 - **Burner Wallet & Local Faucet**: test your application with a burner wallet and local faucet.
